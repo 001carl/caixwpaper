@@ -1,0 +1,622 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2016.3.2)  10 NOV 2016 23:26
+entering extended mode
+**dac.tex
+(H:\IEEEtran\dac.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for loaded.
+(H:\IEEEtran\IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpdimenC=\dimen104
+\@IEEEtrantmpcountA=\count79
+\@IEEEtrantmpcountB=\count80
+\@IEEEtrantmpcountC=\count81
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 503.
+
+(E:\CTEX\MiKTeX\tex\latex\psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen105
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen106
+\CLASSINFOnormalsizeunitybaselineskip=\dimen107
+\IEEEnormaljot=\dimen108
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+\IEEEquantizedlength=\dimen109
+\IEEEquantizedlengthdiff=\dimen110
+\IEEEquantizedtextheightdiff=\dimen111
+\IEEEilabelindentA=\dimen112
+\IEEEilabelindentB=\dimen113
+\IEEEilabelindent=\dimen114
+\IEEEelabelindent=\dimen115
+\IEEEdlabelindent=\dimen116
+\IEEElabelindent=\dimen117
+\IEEEiednormlabelsep=\dimen118
+\IEEEiedmathlabelsep=\dimen119
+\IEEEiedtopsep=\skip41
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@IEEEsubequation=\count86
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count87
+\c@table=\count88
+\@IEEEeqnnumcols=\count89
+\@IEEEeqncolcnt=\count90
+\@IEEEsubeqnnumrollback=\count91
+\@IEEEquantizeheightA=\dimen120
+\@IEEEquantizeheightB=\dimen121
+\@IEEEquantizeheightC=\dimen122
+\@IEEEquantizeprevdepth=\dimen123
+\@IEEEquantizemultiple=\count92
+\@IEEEquantizeboxA=\box26
+\@IEEEtmpitemindent=\dimen124
+\IEEEPARstartletwidth=\dimen125
+\c@IEEEbiography=\count93
+\@IEEEtranrubishbin=\box27
+) (E:\CTEX\MiKTeX\tex\latex\graphics\graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(E:\CTEX\MiKTeX\tex\latex\graphics\keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(E:\CTEX\MiKTeX\tex\latex\graphics\graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(E:\CTEX\MiKTeX\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(E:\CTEX\MiKTeX\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(E:\CTEX\MiKTeX\tex\latex\pdftex-def\pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(E:\CTEX\MiKTeX\tex\generic\oberdiek\infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+(E:\CTEX\MiKTeX\tex\generic\oberdiek\ltxcmds.sty
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count94
+))
+\Gin@req@height=\dimen126
+\Gin@req@width=\dimen127
+)
+(E:\CTEX\MiKTeX\tex\latex\algorithms\algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+(E:\CTEX\MiKTeX\tex\latex\float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count95
+\float@exts=\toks16
+\float@box=\box28
+\@float@everytoks=\toks17
+\@floatcapt=\box29
+)
+(E:\CTEX\MiKTeX\tex\latex\base\ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\@float@every@algorithm=\toks18
+\c@algorithm=\count96
+)
+(E:\CTEX\MiKTeX\tex\latex\algorithmicx\algpseudocode.sty
+Package: algpseudocode 
+
+(E:\CTEX\MiKTeX\tex\latex\algorithmicx\algorithmicx.sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count97
+\c@ALG@rem=\count98
+\c@ALG@nested=\count99
+\ALG@tlm=\skip44
+\ALG@thistlm=\skip45
+\c@ALG@Lnr=\count100
+\c@ALG@blocknr=\count101
+\c@ALG@storecount=\count102
+\c@ALG@tmpcounter=\count103
+\ALG@tmplength=\skip46
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+) (E:\CTEX\MiKTeX\tex\latex\cite\cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 373.
+Package: cite 2010/09/10  v 5.3
+)
+(E:\CTEX\MiKTeX\tex\latex\graphics\color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(E:\CTEX\MiKTeX\tex\latex\00miktex\color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+(E:\CTEX\MiKTeX\tex\latex\multirow\multirow.sty
+\bigstrutjot=\dimen128
+)
+(E:\CTEX\MiKTeX\tex\latex\ams\math\amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip47
+
+For additional information on amsmath, use the `?' option.
+(E:\CTEX\MiKTeX\tex\latex\ams\math\amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(E:\CTEX\MiKTeX\tex\latex\ams\math\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks19
+\ex@=\dimen129
+))
+(E:\CTEX\MiKTeX\tex\latex\ams\math\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen130
+)
+(E:\CTEX\MiKTeX\tex\latex\ams\math\amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count104
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count105
+\leftroot@=\count106
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count107
+\DOTSCASE@=\count108
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box30
+\strutbox@=\box31
+\big@size=\dimen131
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count109
+\c@MaxMatrixCols=\count110
+\dotsspace@=\muskip10
+\c@parentequation=\count111
+\dspbrk@lvl=\count112
+\tag@help=\toks20
+\row@=\count113
+\column@=\count114
+\maxfields@=\count115
+\andhelp@=\toks21
+\eqnshift@=\dimen132
+\alignsep@=\dimen133
+\tagshift@=\dimen134
+\tagwidth@=\dimen135
+\totwidth@=\dimen136
+\lineht@=\dimen137
+\@envbody=\toks22
+\multlinegap=\skip48
+\multlinetaggap=\skip49
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(E:\CTEX\MiKTeX\tex\latex\amsfonts\amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+
+(E:\CTEX\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+(E:\CTEX\MiKTeX\tex\latex\subfigure\subfigure.sty
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip50
+\subfigcapskip=\skip51
+\subfigcaptopadj=\dimen138
+\subfigbottomskip=\skip52
+\subfigcapmargin=\dimen139
+\subfiglabelskip=\skip53
+\c@subfigure=\count116
+\c@lofdepth=\count117
+\c@subtable=\count118
+\c@lotdepth=\count119
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(E:\CTEX\MiKTeX\tex\latex\subfigure\subfigure.cfg)
+\subfig@top=\skip54
+\subfig@bottom=\skip55
+)
+(E:\CTEX\MiKTeX\tex\latex\ulem\ulem.sty
+\UL@box=\box32
+\UL@hyphenbox=\box33
+\UL@skip=\skip56
+\UL@hook=\toks24
+\UL@height=\dimen140
+\UL@pe=\count120
+\UL@pixel=\dimen141
+\ULC@box=\box34
+Package: ulem 2011/03/18
+\ULdepth=\dimen142
+) (H:\IEEEtran\dac.aux
+
+LaTeX Warning: Label `fig_sim' multiply defined.
+
+
+LaTeX Warning: Label `fig_sim' multiply defined.
+
+
+LaTeX Warning: Label `fig_sim' multiply defined.
+
+
+LaTeX Warning: Label `fig_sim' multiply defined.
+
+
+LaTeX Warning: Label `table3' multiply defined.
+
+
+LaTeX Warning: Label `table3' multiply defined.
+
+
+LaTeX Warning: Label `table3' multiply defined.
+
+
+LaTeX Warning: Label `wang' multiply defined.
+
+
+LaTeX Warning: Label `wang' multiply defined.
+
+
+LaTeX Warning: Label `wang' multiply defined.
+
+
+LaTeX Warning: Label `wang' multiply defined.
+
+
+LaTeX Warning: Label `wang' multiply defined.
+
+
+LaTeX Warning: Label `wang' multiply defined.
+
+
+LaTeX Warning: Label `wang' multiply defined.
+
+
+LaTeX Warning: Label `wang' multiply defined.
+
+
+LaTeX Warning: Label `wang' multiply defined.
+
+
+LaTeX Warning: Label `wang' multiply defined.
+
+
+LaTeX Warning: Label `wang' multiply defined.
+
+
+LaTeX Warning: Label `wang' multiply defined.
+
+
+LaTeX Warning: Label `wang' multiply defined.
+
+
+LaTeX Warning: Label `wang' multiply defined.
+
+
+LaTeX Warning: Label `wang' multiply defined.
+
+
+LaTeX Warning: Label `wang' multiply defined.
+
+
+LaTeX Warning: Label `wang' multiply defined.
+
+
+LaTeX Warning: Label `wang' multiply defined.
+
+
+LaTeX Warning: Label `wang' multiply defined.
+
+
+LaTeX Warning: Label `wang' multiply defined.
+
+
+LaTeX Warning: Label `fig_sim' multiply defined.
+
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+
+-- Lines per column: 62 (approximate, difference = 1.20447pt).
+(E:\CTEX\MiKTeX\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count121
+\scratchdimen=\dimen143
+\scratchbox=\box35
+\nofMPsegments=\count122
+\nofMParguments=\count123
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count124
+\MPscratchDim=\dimen144
+\MPnumerator=\count125
+\makeMPintoPDFobject=\count126
+\everyMPtoPDFconversion=\toks26
+)
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 33.
+ (E:\CTEX\MiKTeX\tex\latex\psnfss\omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 33.
+
+<p100.png, id=1, 525.6438pt x 377.2494pt>
+File: p100.png Graphic file (type png)
+ <use p100.png>
+Package pdftex.def Info: p100.png used on input line 50.
+(pdftex.def)             Requested size: 170.71652pt x 122.51825pt.
+
+<p5.png, id=3, 208.1376pt x 207.6558pt>
+File: p5.png Graphic file (type png)
+ <use p5.png>
+Package pdftex.def Info: p5.png used on input line 53.
+(pdftex.def)             Requested size: 113.81102pt x 113.5488pt.
+
+Underfull \vbox (badness 2469) has occurred while \output is active []
+
+ [1{E:/CTEX/UserData/pdftex/config/pdftex.map{Unicode.sfd}{UGBK.sfd}}
+
+
+ <H:/IEEEtran/p100.png> <H:/IEEEtran/p5.png>]
+LaTeX Font Info:    Try loading font information for U+msa on input line 65.
+ (E:\CTEX\MiKTeX\tex\latex\amsfonts\umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 65.
+
+(E:\CTEX\MiKTeX\tex\latex\amsfonts\umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+
+ []
+
+<p1.png, id=14, 295.8252pt x 233.673pt>
+File: p1.png Graphic file (type png)
+ <use p1.png>
+Package pdftex.def Info: p1.png used on input line 77.
+(pdftex.def)             Requested size: 113.81102pt x 89.8984pt.
+
+<p2.png, id=15, 361.35pt x 216.81pt>
+File: p2.png Graphic file (type png)
+ <use p2.png>
+Package pdftex.def Info: p2.png used on input line 80.
+(pdftex.def)             Requested size: 113.81102pt x 68.28558pt.
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+
+<dac2.png, id=16, 332.9238pt x 282.8166pt>
+File: dac2.png Graphic file (type png)
+ <use dac2.png>
+Package pdftex.def Info: dac2.png used on input line 92.
+(pdftex.def)             Requested size: 113.81102pt x 96.67853pt.
+
+<dac3.png, id=17, 355.0866pt x 281.3712pt>
+File: dac3.png Graphic file (type png)
+ <use dac3.png>
+Package pdftex.def Info: dac3.png used on input line 95.
+(pdftex.def)             Requested size: 113.81102pt x 90.1823pt.
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+
+Underfull \hbox (badness 2376) in paragraph at lines 121--122
+[]\OT1/ptm/m/n/10 Table I shows d-if-fer-en-t G-PU ap-pli-ca-tion's be-haviour
+ []
+
+
+Underfull \hbox (badness 5817) in paragraph at lines 121--122
+\OT1/ptm/m/n/10 of mo-nop-o-liz-ing net-work re-source. In al-l ex-per-i-men-t
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
+
+ []
+
+[2 <H:/IEEEtran/p1.png> <H:/IEEEtran/p2.png> <H:/IEEEtran/dac2.png> <H:/IEEEtra
+n/dac3.png>] <dac4.png, id=27, 428.60126pt x 356.33125pt>
+File: dac4.png Graphic file (type png)
+ <use dac4.png>
+Package pdftex.def Info: dac4.png used on input line 132.
+(pdftex.def)             Requested size: 180.67499pt x 150.20724pt.
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ì in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ì in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+
+[3 <H:/IEEEtran/dac4.png (PNG copy)>]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+ <dac7.png, id=33, 436.5108pt x 65.043pt>
+File: dac7.png Graphic file (type png)
+
+<use dac7.png>
+Package pdftex.def Info: dac7.png used on input line 201.
+(pdftex.def)             Requested size: 180.67499pt x 26.92186pt.
+ <dac71.png, id=34, 680.5425pt x 166.6225pt>
+File: dac71.png Graphic file (type png)
+ <use dac71.png>
+Package pdftex.def Info: dac71.png used on input line 204.
+(pdftex.def)             Requested size: 216.81pt x 53.08383pt.
+
+[4 <H:/IEEEtran/dac7.png> <H:/IEEEtran/dac71.png (PNG copy)>]
+<result0.png, id=39, 426.8748pt x 216.81pt>
+File: result0.png Graphic file (type png)
+ <use result0.png>
+Package pdftex.def Info: result0.png used on input line 287.
+(pdftex.def)             Requested size: 227.62204pt x 115.61009pt.
+
+<result1.png, id=40, 426.8748pt x 216.3282pt>
+File: result1.png Graphic file (type png)
+ <use result1.png>
+Package pdftex.def Info: result1.png used on input line 290.
+(pdftex.def)             Requested size: 227.62204pt x 115.35318pt.
+ [5]
+Missing character: There is no ƒ in font ptmr7t!
+Missing character: There is no ± in font ptmr7t!
+
+Underfull \hbox (badness 6927) in paragraph at lines 337--340
+[]\OT1/ptm/m/n/8 Advanced Mi-cro De-vices, In-c. (2013) What is Het-ero-ge-neou
+s
+ []
+
+
+Underfull \hbox (badness 3281) in paragraph at lines 337--340
+\OT1/ptm/m/n/8 Sys-tem Ar-chi-tec-ture (H-SA)? Avail-able: http://www.amd.com/e
+n-gb/
+ []
+
+
+Underfull \hbox (badness 7504) in paragraph at lines 346--348
+[]\OT1/ptm/m/n/8 Intel. (2012) Prod-uct-s (For-mer-ly Ivy Bridge). Avail-able: 
+http:
+ []
+
+
+Underfull \hbox (badness 3514) in paragraph at lines 351--353
+[]\OT1/ptm/m/n/8 NVIDIA. (2011) CU-D-A C/C++ S-D-K Code Sam-ples. Avail-able:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 351--353
+
+ []
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ƒ in font ptmr7t!
+Missing character: There is no ± in font ptmr7t!
+Missing character: There is no √ in font ptmr7t!
+Missing character: There is no © in font ptmr7t!
+Missing character: There is no ƒ in font ptmr7t!
+Missing character: There is no ± in font ptmr7t!
+Missing character: There is no √ in font ptmr7t!
+Missing character: There is no © in font ptmr7t!
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+[6 <H:/IEEEtran/result0.png> <H:/IEEEtran/result1.png>] (H:\IEEEtran\dac.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3909 strings out of 495354
+ 54706 string characters out of 3183860
+ 123522 words of memory out of 3000000
+ 7018 multiletter control sequences out of 15000+200000
+ 39636 words of font info for 85 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 27i,15n,24p,2591b,296s stack positions out of 5000i,500n,10000p,200000b,50000s
+{E:/CTEX/MiKTeX/fonts/enc/dvips/fontname/8r.enc}<E:/CTEX/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmmi10.pfb><E:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr
+10.pfb><E:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><E:/CTEX/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmsy7.pfb><E:/CTEX/MiKTeX/fonts/type1/urw/time
+s/utmb8a.pfb><E:/CTEX/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><E:/CTEX/MiKTeX/
+fonts/type1/urw/times/utmr8a.pfb><E:/CTEX/MiKTeX/fonts/type1/urw/times/utmri8a.
+pfb>
+Output written on dac.pdf (6 pages, 381014 bytes).
+PDF statistics:
+ 75 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+
